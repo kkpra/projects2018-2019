@@ -1,0 +1,1 @@
+The goal of this project is t design a attendance notification system using Android application. This mobile application is having two interfaces which actually work on existing attendance management syste. First interface is provide to
